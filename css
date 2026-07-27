@@ -377,8 +377,14 @@ dd.relationship.tags a {
   background: url("https://64.media.tumblr.com/dab095a2fd9387bc1e0c57747ba6b13f/94c6737c6db9ad60-ad/s1280x1920/c1a4e14e0565cdcac5d3e20bebac3ab440f2d607.png") left center no-repeat;
 }
 
+body {
+background: #0d0e1f !important;
+color: #f3bc70;
+}
 
-
+.blurb h4 a:visited {
+  color: #f3bc70 !important;
+}
 
 
 
